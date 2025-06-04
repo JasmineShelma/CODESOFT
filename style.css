@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background: #b33;
+  background: #bb33;
   color: white;
   padding: 20px;
   text-align: center;
@@ -14,15 +14,15 @@ header {
 
 section {
   padding: 20px;
-  background: black;
+  background: pink;
   margin: 10px auto;
   max-width: 800px;
   border-radius: 8px;
 }
 
 footer {
-  background: #b33;
-  color: black;
+  background: #bb33;
+  color: pink;
   text-align: center;
   padding: 10px;
 }
