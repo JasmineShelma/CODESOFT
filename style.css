@@ -14,7 +14,7 @@ header {
 
 section {
   padding: 20px;
-  background: white;
+  background: pink;
   margin: 10px auto;
   max-width: 800px;
   border-radius: 8px;
@@ -22,7 +22,7 @@ section {
 
 footer {
   background: #b33;
-  color: white;
+  color: pink;
   text-align: center;
   padding: 10px;
 }
